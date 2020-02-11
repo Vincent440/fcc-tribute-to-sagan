@@ -1,0 +1,98 @@
+#body-content {
+  margin: 0rem 1rem;
+  background-color: rgb(49, 49, 49);
+}
+#main {
+  background: linear-gradient(
+    180deg,
+    rgb(226, 226, 226),
+    rgb(202, 202, 202),
+    rgb(226, 226, 226)
+  );
+  font-family: "Roboto Slab", Arial, Helvetica, sans-serif, serif;
+  padding: 1rem 0.25rem;
+  border-radius: 1rem;
+}
+#title-container {
+  box-sizing: content-box;
+  color: rgb(240, 240, 240);
+  background: linear-gradient(
+    90deg,
+    rgb(10, 10, 10),
+    rgb(49, 49, 49),
+    rgb(10, 10, 10)
+  );
+  text-align: center;
+  border-radius: 1rem;
+  width: 100%;
+}
+#title {
+  font-size: 4em;
+  padding: 0.6rem;
+  margin: 0.5rem;
+}
+#img-div {
+  background-color: black;
+  padding-bottom: 0.5rem;
+  border-radius: 1rem;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 1rem;
+}
+#tribute-info > h3 {
+  border-width: 0rem;
+  border-bottom: 0.25rem;
+  border-style: solid;
+  border-color: darkgray;
+}
+#tribute-info > ul > li {
+  margin-bottom: 1rem;
+}
+#learn-more {
+    margin: 1rem;
+    text-align: center;
+}
+.caption {
+  color: white;
+  font-size: smaller;
+  margin-right: 1rem;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.f-cols {
+  flex-direction: column;
+}
+
+.f-rows {
+  flex-direction: row;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: end;
+}
+
+.font-shadow {
+  text-shadow: 0.02em 0.02em 0 rgb(43, 43, 43), 0.07em 0.07em 0 #838383;
+}
+
+.max-width-responsive {
+  max-width: 70vmin ;
+}
+
+/* 
+    More font effects found here: https://developers.google.com/fonts/docs/getting_started#enabling_font_effects_beta
+    ---------------------------------------------------------------------------------------
+*/
