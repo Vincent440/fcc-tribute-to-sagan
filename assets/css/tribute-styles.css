@@ -1,5 +1,5 @@
 #body-content {
-  margin: 0rem 1rem;
+  margin: 0rem;
   background-color: rgb(49, 49, 49);
 }
 #main {
@@ -10,7 +10,7 @@
     rgb(226, 226, 226)
   );
   font-family: "Roboto Slab", Arial, Helvetica, sans-serif, serif;
-  padding: 1rem 0.25rem;
+  padding: 1rem;
   border-radius: 1rem;
 }
 #title-container {
