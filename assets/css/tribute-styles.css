@@ -42,15 +42,24 @@
   display: block;
   border-radius: 1rem;
 }
-#tribute-info > h3 {
+#tribute-info > h2 {
   border-width: 0rem;
   border-bottom: 0.25rem;
   border-style: solid;
   border-color: darkgray;
 }
-#tribute-info > ul > li {
-  margin-bottom: 1rem;
+ul.d-flex > li {
+  margin: .75em 0em;
+  line-height: 1.5;
 }
+
+ul.d-flex {
+  border: solid darkgray;
+  border-width:.1rem 0rem;
+  padding: .5rem 2rem;
+  margin-top: 0rem;
+}
+
 #learn-more {
     margin: 1rem;
     text-align: center;
@@ -90,6 +99,7 @@
 
 .max-width-responsive {
   max-width: 70vmin ;
+  line-height: 1.5;
 }
 
 /* 
