@@ -8,7 +8,7 @@ View the page here [Carl Sagan Tribute Timeline](https://www.vshury.com/fcc-trib
 
 ### Author Vincent Shury
 
-* View my portfolio at [www.vshury.com](www.vshury.com)
+* View my [portfolio](https://www.vshury.com)
 
 #### Resources
 Links on Carl Sagan
