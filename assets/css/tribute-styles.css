@@ -98,8 +98,8 @@ ul.d-flex {
 }
 
 .max-width-responsive {
-  max-width: 70vmin ;
-  line-height: 1.5;
+  max-width: 80vw;
+  line-height: 1.75;
 }
 
 /* 
