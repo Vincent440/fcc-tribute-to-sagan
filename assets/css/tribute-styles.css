@@ -48,7 +48,11 @@
   border-style: solid;
   border-color: darkgray;
 }
+ul > li > ul > li {
+  list-style-type: circle;
+}
 ul.d-flex > li {
+  list-style-type: disc;
   margin: .75em 0em;
   line-height: 1.5;
 }
@@ -61,8 +65,8 @@ ul.d-flex {
 }
 
 #learn-more {
-    margin: 1rem;
-    text-align: center;
+  margin: 1rem;
+  text-align: center;
 }
 .caption {
   color: white;
@@ -89,8 +93,15 @@ ul.d-flex {
 .text-center {
   text-align: center;
 }
+
 .text-right {
-  text-align: end;
+  text-align: right;
+}
+
+@supports(text-align: end){
+  .text-right {
+    text-align: end;
+  }
 }
 
 .font-shadow {
@@ -101,8 +112,3 @@ ul.d-flex {
   max-width: 80vw;
   line-height: 1.75;
 }
-
-/* 
-    More font effects found here: https://developers.google.com/fonts/docs/getting_started#enabling_font_effects_beta
-    ---------------------------------------------------------------------------------------
-*/

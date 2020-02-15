@@ -12,6 +12,7 @@ View the page here [Carl Sagan Tribute Timeline](https://www.vshury.com/fcc-trib
 
 #### Resources
 Links on Carl Sagan
-* [Britannica](https://www.britannica.com/biography/Carl-Sagan)
-* [Wikipedia](https://en.wikipedia.org/wiki/Carl_Sagan)
-* [officetimeline](https://www.officetimeline.com/blog/carl-sagan-timeline) blog post on Carl Sagan
+
+* [Britannica](https://www.britannica.com/biography/Carl-Sagan) - Carl Sagan
+* [Wikipedia](https://en.wikipedia.org/wiki/Carl_Sagan) - Carl Sagan
+* [Officetimeline](https://www.officetimeline.com/blog/carl-sagan-timeline) - Blog post on Carl Sagan
