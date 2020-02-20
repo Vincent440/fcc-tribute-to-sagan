@@ -2,6 +2,7 @@
   margin: 0rem;
   background-color: rgb(49, 49, 49);
 }
+
 #main {
   background: linear-gradient(
     180deg,
@@ -13,6 +14,7 @@
   padding: 1rem;
   border-radius: 1rem;
 }
+
 #title-container {
   box-sizing: content-box;
   color: rgb(240, 240, 240);
@@ -26,31 +28,37 @@
   border-radius: 1rem;
   width: 100%;
 }
+
 #title {
   font-size: 4em;
   padding: 0.6rem;
   margin: 0.5rem;
 }
+
 #img-div {
   background-color: black;
   padding-bottom: 0.5rem;
   border-radius: 1rem;
 }
+
 #image {
   max-width: 100%;
   height: auto;
   display: block;
   border-radius: 1rem;
 }
+
 #tribute-info > h2 {
   border-width: 0rem;
   border-bottom: 0.25rem;
   border-style: solid;
   border-color: darkgray;
 }
+
 ul > li > ul > li {
   list-style-type: circle;
 }
+
 ul.d-flex > li {
   list-style-type: disc;
   margin: .75em 0em;
@@ -68,6 +76,7 @@ ul.d-flex {
   margin: 1rem;
   text-align: center;
 }
+
 .caption {
   color: white;
   font-size: smaller;
@@ -82,16 +91,8 @@ ul.d-flex {
   flex-direction: column;
 }
 
-.f-rows {
-  flex-direction: row;
-}
-
 .align-center {
   align-items: center;
-}
-
-.text-center {
-  text-align: center;
 }
 
 .text-right {
