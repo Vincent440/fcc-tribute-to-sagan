@@ -37,6 +37,7 @@
 
 #img-div {
   background-color: black;
+  max-width: 800px;
   padding-bottom: 0.5rem;
   border-radius: 1rem;
 }
